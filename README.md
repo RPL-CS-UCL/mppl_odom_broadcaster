@@ -1,2 +1,2 @@
-# mppl_odom_broadcaster
-Broadcasts the odometry frame for RB-KAIROS and MPPL
+# odom_frame_broadcaster
+For republishing odometry as a frame on the MPPL robot 
